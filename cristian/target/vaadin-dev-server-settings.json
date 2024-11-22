@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/PRACTICA1/Desktop/Cristian/cristian/src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/PRACTICA1/Desktop/Cristian/cristian/src/main/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/PRACTICA1/Desktop/Cristian/cristian/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\PRACTICA1\\Desktop\\Cristian\\cristian\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\PRACTICA1\\Desktop\\Cristian\\cristian\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/PRACTICA1/Desktop/Cristian/cristian/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/PRACTICA1/Desktop/Cristian/cristian/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/PRACTICA1/Desktop/Cristian/cristian/src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\PRACTICA1\\Desktop\\Cristian\\cristian\\target\\sw.ts",
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'.'"
+}
